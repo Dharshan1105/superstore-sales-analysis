@@ -6,24 +6,23 @@ A comprehensive data analysis project that explores and visualizes sales data fr
 
 
 ## Project Structure
-
-Superstore-Analysis/
+superstore-sales-analysis/
 ├── data/
-│ └── Global_Superstore2.csv
+│   └── Global_Superstore2.csv          
 ├── notebooks/
-│ └── Superstore_Analysis.ipynb
+│   └── Superstore_Analysis.ipynb        
 ├── outputs/
-│ └── Updated_File.csv
+│   └── Updated_File.csv                 
 └── README.md
+
 
 ## Objective
 
 The goal of this project is to:
-- Clean and preprocess the superstore sales dataset.
-- Extract meaningful business insights regarding sales, profits, delays, and customer segments.
-- Identify top-performing products and regions.
-- Discover trends based on time-related features such as month and year.
-- Provide dynamic and interactive data visualizations using Plotly.
+- Understand sales and profit distribution across regions, segments, and categories.
+- Identify the most and least profitable areas.
+- Discover patterns in shipping modes and customer segments.
+- Visualize data using interactive Plotly graphs for deeper insights.
 
 ---
 
